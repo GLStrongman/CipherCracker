@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData">
+    <serverData>
+      <paths name="Remote (bd09af1b-f63d-4c75-a8a5-023713978507)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/tmp.f96AmfzBBQ" local="$PROJECT_DIR$" />
+          </mappings>
+          <excludedPaths>
+            <excludedPath local="true" path="$PROJECT_DIR$/build-remote" />
+            <excludedPath local="true" path="$PROJECT_DIR$/build-local" />
+            <excludedPath local="true" path="$PROJECT_DIR$/build-local" />
+            <excludedPath local="true" path="$PROJECT_DIR$/build-remote" />
+          </excludedPaths>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
